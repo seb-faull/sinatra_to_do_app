@@ -36,6 +36,9 @@ class ToDoManager
   
 end
 
+#Each resource (ie photos, todo, blog posts etc), needs the 7 RESTful routes. 
+#RESTful routes allows us to do the 4 things of CRUD.
+
 
 
 
